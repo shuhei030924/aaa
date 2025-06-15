@@ -1,0 +1,225 @@
+{
+  "title": "Microsoft 365 Copilotで出来ること",
+  "subtitle": "10-15分で学ぶ業務効率化ガイド",
+  "slides": [
+    {
+      "id": "intro",
+      "title": "Microsoft 365 Copilotとは",
+      "type": "intro",
+      "content": {
+        "heading": "あなたの仕事のパートナー",
+        "description": "Microsoft 365 Copilotは、日常業務を支援するAIアシスタントです。Word、Excel、PowerPoint、Outlook、Teamsに統合され、業務効率を大幅に向上させます。",
+        "features": [
+          "文書作成・編集の自動化",
+          "データ分析・可視化",
+          "プレゼンテーション作成支援",
+          "メール管理の効率化",
+          "会議の要約・議事録作成"
+        ]
+      }
+    },
+    {
+      "id": "word",
+      "title": "Word での活用",
+      "type": "application",
+      "content": {
+        "icon": "📝",
+        "description": "文書作成・編集を効率化",
+        "usecases": [
+          {
+            "title": "文書の自動生成",
+            "description": "トピックやアウトラインから完全な文書を作成"
+          },
+          {
+            "title": "文書の要約",
+            "description": "長い文書から重要なポイントを抽出"
+          },
+          {
+            "title": "文章の改善",
+            "description": "文法チェック、文体調整、読みやすさの向上"
+          },
+          {
+            "title": "翻訳・言語調整",
+            "description": "多言語対応と適切なトーンでの文書作成"
+          }
+        ]
+      }
+    },
+    {
+      "id": "excel",
+      "title": "Excel での活用",
+      "type": "application",
+      "content": {
+        "icon": "📊",
+        "description": "データ分析・可視化を簡単に",
+        "usecases": [
+          {
+            "title": "データ分析",
+            "description": "複雑なデータセットから洞察を自動抽出"
+          },
+          {
+            "title": "グラフ・チャート作成",
+            "description": "データに最適な可視化方法を提案・作成"
+          },
+          {
+            "title": "数式・関数の提案",
+            "description": "目的に応じた適切な計算式を自動生成"
+          },
+          {
+            "title": "レポート生成",
+            "description": "データから自動的にレポートを作成"
+          }
+        ]
+      }
+    },
+    {
+      "id": "powerpoint",
+      "title": "PowerPoint での活用",
+      "type": "application",
+      "content": {
+        "icon": "🎨",
+        "description": "魅力的なプレゼンテーションを効率的に作成",
+        "usecases": [
+          {
+            "title": "スライド自動生成",
+            "description": "テーマやアウトラインから完全なプレゼンテーションを作成"
+          },
+          {
+            "title": "デザイン提案",
+            "description": "コンテンツに適したレイアウトとデザインを提案"
+          },
+          {
+            "title": "画像・アイコン挿入",
+            "description": "内容に関連する適切な画像やアイコンを自動選択"
+          },
+          {
+            "title": "スピーカーノート作成",
+            "description": "各スライドに対する発表用メモを自動生成"
+          }
+        ]
+      }
+    },
+    {
+      "id": "outlook",
+      "title": "Outlook での活用",
+      "type": "application",
+      "content": {
+        "icon": "📧",
+        "description": "メール管理を効率化",
+        "usecases": [
+          {
+            "title": "メール下書き作成",
+            "description": "目的や相手に応じた適切なメールを自動作成"
+          },
+          {
+            "title": "メール要約",
+            "description": "長いメールスレッドの重要な内容を要約"
+          },
+          {
+            "title": "返信提案",
+            "description": "受信メールに対する適切な返信内容を提案"
+          },
+          {
+            "title": "スケジュール調整",
+            "description": "会議の日程調整メールを自動生成"
+          }
+        ]
+      }
+    },
+    {
+      "id": "teams",
+      "title": "Teams での活用",
+      "type": "application",
+      "content": {
+        "icon": "👥",
+        "description": "会議・コラボレーションを強化",
+        "usecases": [
+          {
+            "title": "会議要約",
+            "description": "会議の内容を自動的に要約し、重要なポイントを抽出"
+          },
+          {
+            "title": "議事録作成",
+            "description": "会議の録音から自動的に議事録を生成"
+          },
+          {
+            "title": "アクションアイテム抽出",
+            "description": "会議で決定された次のステップを自動リスト化"
+          },
+          {
+            "title": "質疑応答支援",
+            "description": "会議中の質問に対する回答を支援"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tips",
+      "title": "効果的な使い方のコツ",
+      "type": "tips",
+      "content": {
+        "heading": "Copilot を最大限活用するために",
+        "tips": [
+          {
+            "title": "具体的な指示を出す",
+            "description": "「営業資料を作って」より「新商品の特徴を3つのポイントでまとめた営業資料を作って」が効果的"
+          },
+          {
+            "title": "段階的にリクエスト",
+            "description": "複雑な作業は小さな単位に分けて、段階的に指示を出す"
+          },
+          {
+            "title": "フィードバックを活用",
+            "description": "生成された結果に対して修正指示を出すことで、より良い結果を得られる"
+          },
+          {
+            "title": "既存データを活用",
+            "description": "過去の資料や既存のデータを参照させることで、より精度の高い結果を得られる"
+          }
+        ]
+      }
+    },
+    {
+      "id": "benefits",
+      "title": "導入効果",
+      "type": "benefits",
+      "content": {
+        "heading": "Copilot がもたらす価値",
+        "stats": [
+          {
+            "number": "70%",
+            "description": "文書作成時間の短縮"
+          },
+          {
+            "number": "60%",
+            "description": "データ分析作業の効率化"
+          },
+          {
+            "number": "50%",
+            "description": "会議準備時間の削減"
+          },
+          {
+            "number": "80%",
+            "description": "ユーザー満足度"
+          }
+        ],
+        "qualitative": [
+          "創造的な作業により多くの時間を割ける",
+          "ルーティンワークの自動化により生産性向上",
+          "一貫性のある高品質な成果物を作成",
+          "チーム間のコラボレーション向上"
+        ]
+      }
+    },
+    {
+      "id": "conclusion",
+      "title": "まとめ",
+      "type": "conclusion",
+      "content": {
+        "heading": "Microsoft 365 Copilot で働き方を変革",
+        "summary": "Microsoft 365 Copilotは、日常的な業務を効率化し、より創造的で価値の高い仕事に集中できる環境を提供します。適切に活用することで、個人とチーム両方の生産性を大幅に向上させることができます。",
+        "action": "今すぐCopilotを使い始めて、あなたの働き方を変革してみませんか？"
+      }
+    }
+  ]
+}
